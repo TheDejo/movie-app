@@ -130,6 +130,9 @@ header {
     overflow: hidden;
     border-radius: 6px;
   }
+  .movie-info h3 {
+    overflow: scroll;
+  }
 
   #form {
     width: 100%;
